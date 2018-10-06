@@ -1,0 +1,10 @@
+.jumbotron{
+    background-color: darkgreen !important; 
+    color: white !important; 
+    text-align: center;
+}
+
+body{
+    padding: 50px; 
+    box-align: center;
+}
